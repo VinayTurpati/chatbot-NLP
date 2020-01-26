@@ -23,11 +23,11 @@
 - Train the data.
 
 	```python train.py```
-	
+
 or you could specify number of epoches to train
 
-	```python train.py 20```
-	
+	```python train.py 30```
+
 You could tune the Parameters by spectifying in settings.py file
 
 ## Google Colab
