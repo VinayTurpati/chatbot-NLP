@@ -2,13 +2,13 @@
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
 
-### Using Natural Language Processing with Deep Learning.Movie Dialogue dataset is used for training the Seq2seq model.
+### Using Natural Language Processing with Deep Learning. Movie Dialogue dataset is used for training the Seq2seq model.
 
 ## Libraries
 
-	- [Keras](https://keras.io/)
+- [Keras](https://keras.io/)
 
-	- [Tensorflow](https://www.tensorflow.org/)
+- [Tensorflow](https://www.tensorflow.org/)
 
 ## Setup
 
