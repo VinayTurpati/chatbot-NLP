@@ -23,7 +23,11 @@
 - Train the data.
 
 	```python train.py```
+	
+or you could specify number of epoches to train
 
+	```python train.py 20```
+	
 You could tune the Parameters by spectifying in settings.py file
 
 ## Google Colab
@@ -33,6 +37,13 @@ Enter and run the following snippet in the first cell to train in Google Colab e
 ```
 !git init && git remote add origin https://github.com/VinayTurpati/movie-dialogue-chatbot.git
 !pip install -r requirements.txt
+```
+
+After installing the requirements
+
+```
+python prepare_data.py
+python train.py
 ```
 
 ## LSTM Model:
