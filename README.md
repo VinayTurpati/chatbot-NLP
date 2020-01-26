@@ -26,7 +26,7 @@
 
 or you could specify number of epoches to train
 
-	```python train.py 30```
+	python train.py 20
 
 You could tune the Parameters by spectifying in settings.py file
 
