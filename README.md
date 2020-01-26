@@ -46,10 +46,14 @@ python prepare_data.py
 python train.py
 ```
 
+### Trained model with weights
+
+https://drive.google.com/open?id=1HGnaaKmPKc6ehJFliR3wSjiRtS4Y3TkU
+
 ## LSTM Model:
 
 ![LSTM Model](images/seq2seq.png)
 
-## After more than 30 epoches of training 
+### After more than 30 epoches of training 
 
 ![Result](images/result.png)
